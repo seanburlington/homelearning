@@ -1,0 +1,6 @@
+baseURL = 'http://homelearning.burlington.me.uk/'
+languageCode = 'en-gb'
+title = 'Our Home Learning Journey'
+theme ='hugo-theme-bootstrap4-blog'
+[params]
+    sharingicons = false
